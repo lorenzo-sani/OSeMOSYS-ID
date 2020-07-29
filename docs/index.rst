@@ -10,6 +10,9 @@ Welcome to OSeMOSYS-ID's documentation!
    :maxdepth: 2
    :caption: Contents:
 
+   pages/01Introduction
+   pages/99refs.rst
+
 
 
 Indices and tables
